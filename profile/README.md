@@ -1,6 +1,6 @@
 ## Intro
 
-This is an organization which is for saving my mods
+I will upload some of my experimental (or not) mods to this organization.
 
 <!--
 
